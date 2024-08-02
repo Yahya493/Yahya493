@@ -68,11 +68,6 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Yahya493&theme=onedark&border_radius=5&date_format=n%2Fj%5B%2FY%5D&card_width=420&card_height=194&border=FFFFFF" alt="GitHub Streak" /></a>
   <img width="410px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yahya493&layout=compact&theme=onedark" />
 </div>
-<div>
-  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=Yahya493&show_icons=true&theme=onedark">
-  <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yahya493&layout=compact&theme=onedark" />
-  <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yahya493&theme=onedark" />
-</div>
 
 ## My Rewards
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Yahya493&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
