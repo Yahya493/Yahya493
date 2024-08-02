@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yahya Dhaybi</h1>
 
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yahya493.Yahya493&left_color=royalblue&right_color=black"  />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahya493&label=Profile%20views&color=0e75b6&style=flat" alt="yahya493" /> </p>
 <h3 align="center">Aspiring Full Stack Developer from Lebanon </h3>
 
 <h3 align="left">Languages and Tools:</h3>
