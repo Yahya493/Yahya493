@@ -1,12 +1,13 @@
 
-<div align="right">
-
-[![](https://visitcount.itsvg.in/api?id=Yahya493&icon=0&color=10)](https://visitcount.itsvg.in)
-</div>
 
 <div align="center">
 
 ![tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280](https://github.com/user-attachments/assets/3efa67c1-1db2-4d1b-9d5a-b26026847563)
+</div>
+
+<div align="right">
+
+[![](https://visitcount.itsvg.in/api?id=Yahya493&icon=0&color=10)](https://visitcount.itsvg.in)
 </div>
 
 <h1 align="center">Hi 👋, I'm Yahya Dhaybi</h1>
@@ -68,7 +69,7 @@
 
 <div align="center">
 
-![tumblr_75ee871c3c70501014511f527b342213_ae89e529_1280](https://github.com/user-attachments/assets/160c9319-c95a-4101-823a-9d6a680038fe)
+![tumblr_75ee871c3c70501014511f527b342213_ae89e529_1280-ezgif com-crop](https://github.com/user-attachments/assets/882b5d26-276c-4fb1-8aa9-7a5246d4be3f)
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
