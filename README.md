@@ -62,6 +62,9 @@
   </a>
 </p>
 
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/Yahya493/Yahya493/output/github-contribution-grid-snake-dark.svg)
+
 ## My Journey
 <div>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yahya493&theme=github">
@@ -72,8 +75,4 @@
 
 ## My Rewards
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Yahya493&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Feeding...
-![Snake animation](https://raw.githubusercontent.com/Yahya493/Yahya493/output/github-contribution-grid-snake-dark.svg)
-
 
