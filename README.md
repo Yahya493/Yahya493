@@ -76,3 +76,4 @@
 ## My Rewards
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Yahya493&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+![1QXw](https://github.com/user-attachments/assets/57eaa719-9a5f-4aa7-8245-e52982db9a56)
