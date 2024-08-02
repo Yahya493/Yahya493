@@ -65,7 +65,7 @@
 ## My Journey
 <div>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yahya493&theme=github">
-  <img width="410px" src="https://github-readme-stats.vercel.app/api?username=Yahya493&show_icons=true&theme=onedark">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yahya493&theme=radical&border_radius=5&date_format=n%2Fj%5B%2FY%5D&card_width=420&card_height=200&border=000000)](https://git.io/streak-stats)
   <img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yahya493&theme=onedark" />
   <img width="410px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yahya493&layout=compact&theme=onedark" />
 </div>
