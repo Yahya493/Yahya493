@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yahya Dhaybi</h1>
 
 <p > 
-  <h3 align="center">Aspiring Full Stack Developer from Lebanon </h3>
   <img src="https://komarev.com/ghpvc/?username=yahya493&label=Profile%20views&color=0e75b6&style=flat" alt="yahya493" align="right" />
+  <h3 align="center">Aspiring Full Stack Developer from Lebanon </h3>
 </p>
 
 
