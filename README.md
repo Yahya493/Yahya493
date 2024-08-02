@@ -1,80 +1,74 @@
-<img src="https://komarev.com/ghpvc/?username=yahya493&label=Profile%20views&color=0e75b6&style=flat" alt="yahya493" align="right" />
+
+<div align="right">
+
+[![](https://visitcount.itsvg.in/api?id=Yahya493&icon=0&color=10)](https://visitcount.itsvg.in)
+</div>
+
+<div align="center">
+
+![tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280](https://github.com/user-attachments/assets/3efa67c1-1db2-4d1b-9d5a-b26026847563)
+</div>
+
 <h1 align="center">Hi 👋, I'm Yahya Dhaybi</h1>
 
 <h3 align="center">Aspiring Full Stack Developer from Lebanon </h3>
 
-![tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280](https://github.com/user-attachments/assets/3efa67c1-1db2-4d1b-9d5a-b26026847563)
 
-## Languages and Tools:
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>       </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>      </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>    </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>   </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-</p>
+# 🐍 Feeding...
+<div align="center">
 
-## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/Yahya493/Yahya493/output/github-contribution-grid-snake-dark.svg)
-
-## My Journey
-<div>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yahya493&theme=github">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yahya493&theme=onedark" />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Yahya493&show_icons=true&theme=onedark">
-  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yahya493&layout=compact&theme=onedark" />
 </div>
 
-## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Yahya493&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+# 💻 Tech Stack:
+<div align="center">
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+</div>
+
+# 📊 GitHub Stats:
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yahya493&theme=github">
+</div>
+</br>
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Yahya493&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+</div>
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yahya493&theme=radical&hide_border=false)
+</div>
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahya493&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Yahya493&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
+
+### ✍️ Random Dev Quote
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Yahya493&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
+
+
+## 🌐 Socials:
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yahya.dhaybi.493) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yahya_dhaybi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yahya-dhaybi) 
+</div>
+
+<div align="center">
 
 ![tumblr_75ee871c3c70501014511f527b342213_ae89e529_1280](https://github.com/user-attachments/assets/160c9319-c95a-4101-823a-9d6a680038fe)
+</div>
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
