@@ -64,10 +64,10 @@
 
 ## My Journey
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Yahya493&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yahya493&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Yahya493&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yahya493&theme=onedark" />
+  <img width="410px" src="https://github-readme-stats.vercel.app/api?username=Yahya493&show_icons=true&theme=onedark">
+  <img width="410px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yahya493&layout=compact&theme=onedark" />
+  <img width="410px" src="https://github-readme-activity-graph.vercel.app/graph?username=Yahya493&theme=github">
+  <img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yahya493&theme=onedark" />
 </div>
 
 ## My Rewards
