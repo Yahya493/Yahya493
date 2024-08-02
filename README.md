@@ -5,6 +5,14 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahya493&show_icons=true&locale=en&layout=compact" alt="yahya493" /></p>
 
+## My Journey
+<div>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Yahya493&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yahya493&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Yahya493&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yahya493&theme=onedark" />
+</div>
+
 ![Snake animation](https://raw.githubusercontent.com/Yahya493/Yahya493/output/github-contribution-grid-snake-dark.svg)
 
 
