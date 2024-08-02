@@ -3,6 +3,8 @@
 <img src="https://komarev.com/ghpvc/?username=yahya493&label=Profile%20views&color=0e75b6&style=flat" alt="yahya493" align="right" />
 <h3 align="center">Aspiring Full Stack Developer from Lebanon </h3>
 
+![tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280](https://github.com/user-attachments/assets/3efa67c1-1db2-4d1b-9d5a-b26026847563)
+
 ## Languages and Tools:
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
